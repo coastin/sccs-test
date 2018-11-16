@@ -1,0 +1,15 @@
+$w : 100%;
+$bm : 15px;
+html {
+  height: $w;
+  font-size: $w;
+}
+.center{
+	text-align: center;
+}
+.submit_buttons{
+	margin-top: $bm;
+}
+.search_bar{
+	width: 30%;
+}
